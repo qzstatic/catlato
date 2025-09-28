@@ -50,7 +50,7 @@ const App = () => {
 
 const styles = StyleSheet.create({
   container: {
-    width: 427,
+    width: '100%',
     height: 896,
   },
   homeImageWrapper: {
