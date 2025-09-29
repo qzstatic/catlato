@@ -3,12 +3,17 @@ import Theme from "./theme";
 import Badge from "./badge";
 import {getRandomInt} from "./utils";
 import {Fields} from "./fields";
+import styles from "../components/styles";
 
 const Badges = () => {
     return (
     <>
     <View style={styles.result}>
-        Заработано 3 бейджа
+      <View style={styles.result__row}>
+          <Text style={styles.result__text}>
+            Заработано 3 бейджа
+          </Text>
+        </View>
     </View>
     <View style={styles.badges}>
         <Badge type={Fields[getRandomInt(0, Fields.length)]}/>
@@ -19,20 +24,5 @@ const Badges = () => {
     </>
     )
 }
-
-const styles = StyleSheet.create({
-  result: {
-
-  },
-  badges:  {
-    marginTop: '25px',
-    display: 'grid',
-    gridTemplateColumns: 'repeat(4, 1fr)',
-    gridGap: '20px',
-    backgroundColor: Theme.backgroundColor,
-    width: '100%',
-    height: '361px',
-  },
-})
 
 export default Badges;

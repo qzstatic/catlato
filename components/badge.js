@@ -1,3 +1,4 @@
+import styles from "../components/styles";
 import { StyleSheet, Text, View, Image } from "react-native";
 import Theme from "./theme";
 import {Icons} from "./fields";
@@ -11,7 +12,7 @@ function badgeIcon(type) {
     return (
       <Image
         source={Icons[type]}
-        style={styles.badgeImage}
+        style={styles.badge__image}
       />
     )
   }
@@ -25,26 +26,5 @@ const Badge = ({type}) => {
     </View>
   )
 }
-
-const styles = StyleSheet.create({
-  badge:  {
-    // marginTop: '25px',
-    // display: 'grid',
-    // gridTemplateColumns: 'repeat(4, 1fr)',
-    // gridGap: '20px',
-    backgroundColor: Theme.backgroundColor,
-    width: '64px',
-    height: '64px',
-    borderRadius: '50%',
-    borderColor:  '#757575',
-    borderWidth:  '2px',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center'
-  },
-  badgeImage: {
-    margin: '0 auto'
-  }
-})
 
 export default Badge;

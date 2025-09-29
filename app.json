@@ -1,4 +1,22 @@
 {
   "name": "catlato--with-react-router",
-  "slug": "catlato--with-react-router"
+  "slug": "catlato--with-react-router",
+  "extra": {
+    "eas": {
+      "projectId": "8fba39b7-edc8-41fe-862c-ee94c52e1009"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.openerror2.catlatowithreactrouter"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4528001c-0500-4454-8aec-b11df316091c"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
 }

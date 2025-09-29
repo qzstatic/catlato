@@ -1,27 +1,30 @@
 import { StyleSheet, Text, View, Image } from "react-native";
+import styles from "../components/styles";
+import {Icons, Fields, Labels} from "./fields"
+import { ImageBackground } from "react-native-web";
 
-const FieldCell = () => {
+const FieldCell = ({type}) => {
     return (
-      <View style={styles.container}>
-        <View style={styles.segment} />
-        <View style={styles.segment} />
-        <View style={styles.segment} />
-        <View style={styles.lastSegment} />
+      <View style={styles.field}>
+        <View style={styles.question}>
+          <Text>
+            ?
+          </Text>
+        </View>
+        <View style={{...styles.icon, backgroundImage: Icons[type]}}>
+            <Image
+              style={styles.icon__image}
+              source={Icons[type]}
+            />
+        </View>
+        <View style={styles.label}>
+          <Text>
+            {Labels[type]}
+          </Text>
+        </View>
       </View>
    );
 }
 
-
-const styles = StyleSheet.create({
-  container: {
-    display: 'flex',
-    flex: 1,
-    flexDirection: 'row',
-    backgroundColor: '#3F3F3F',
-    width: '110px',
-    height: '110px',
-    borderRadius: '20px'
-  },
-})
 
 export default FieldCell;
