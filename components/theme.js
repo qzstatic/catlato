@@ -1,4 +1,5 @@
 const Theme = {
+    appWidth: '387px',
     backgroundColor: '#292929',
 }
 

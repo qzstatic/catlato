@@ -29,7 +29,7 @@ const Lato = () => {
 const styles = StyleSheet.create({
   app: {
     backgroundColor: Theme.backgroundColor,
-    maxWidth: '387px'
+    maxWidth: Theme.appWidth,
   },
   container: {
     flex: 1,
