@@ -2,6 +2,7 @@ import ProgressBar from "../components/progress_bar";
 import PlayingField from "../components/playing_field";
 import Theme from "../components/theme";
 import Badges from "../components/badges";
+import Footer from "../components/footer";
 import { StyleSheet, Text, View, Image } from "react-native";
 
 const logo = require("../assets/logo.png");
@@ -22,6 +23,7 @@ const Lato = () => {
         </View>
         <PlayingField/>
         <Badges/>
+        <Footer/>
       </View>
     );
 };

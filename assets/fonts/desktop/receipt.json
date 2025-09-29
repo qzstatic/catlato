@@ -1,0 +1,314 @@
+{
+  "Desc": {
+    "jobID": "kbfs-archive-job-TPLsqOxIFb4",
+    "kbfsPathWithRevision": {
+      "path": "/private/billclintooth/Halvar Desktop",
+      "archivedParam": {
+        "KBFSArchivedType": 0,
+        "revision": 11
+      }
+    },
+    "overwriteZip": true,
+    "startTime": 1759160605561,
+    "stagingPath": "/home/opener/.cache/keybase/kbfs-archive-billclintooth-kbfs-archive-job-TPLsqOxIFb4",
+    "targetName": "Halvar Desktop",
+    "zipFilePath": "/home/opener/Downloads/kb-archive-_keybase_private_billclintooth_Halvar Desktop.zip"
+  },
+  "Manifest": {
+    ".DS_Store": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "214f9234e769d860a691780b46634dec8b95633ac2766307d913505af1b1b49a"
+    },
+    "OTF": {
+      "state": 2,
+      "direntType": 1,
+      "sha256SumHex": ""
+    },
+    "OTF/Halvar Breitschrift-Black Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "273c09b0c9677464f9e14cc2ca90ccfc094e1a0dfbb1077867cbb0f969f7f03d"
+    },
+    "OTF/Halvar Breitschrift-Black SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "ad29ec3ba2b0752f48d8af188fab621d1af48f60578fa8317e676d2ddfef39b5"
+    },
+    "OTF/Halvar Breitschrift-Black-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "b786a76beb060eae0f06863451d90052cbcfeb7d1c6c80b3adf05d70808a0500"
+    },
+    "OTF/Halvar Breitschrift-Bold Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "37b13e6e3150c3d1ebf4aade64555f735e432dceaeafd71912a538b60b54e183"
+    },
+    "OTF/Halvar Breitschrift-Bold SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "3c9ba9eaf686051c6fed6777b0e47fb878fcd85eb1659458c043d2afe87a2411"
+    },
+    "OTF/Halvar Breitschrift-Bold-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "7ef60208ca6b1ecfda492a9369c99514c7046467fc68f4f59ff4bec2855d8b5c"
+    },
+    "OTF/Halvar Breitschrift-ExtraBold Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "34c8f5e3050c4ccd2944203b9984f02efe3edbe377670227d607dc0ac2b76c46"
+    },
+    "OTF/Halvar Breitschrift-ExtraBold SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "c1600d07a232140468ed218041b4a57e96cbeef90554e0a3cb88ee7a28853f02"
+    },
+    "OTF/Halvar Breitschrift-ExtraBold-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "c748ea5930c9973faa542a3793b66d64e6f5dcd36bca3de29aeb9373ab0e13be"
+    },
+    "OTF/Halvar Breitschrift-ExtraThin Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "8f7a71dbdf4334345bdc976e11de1d73aecceed52067d578ce3b613c5353472a"
+    },
+    "OTF/Halvar Breitschrift-ExtraThin SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "37bf0fc4e0fc96ad8e1d7935a641cba7a1f7a9830250ece5a2cd54e14d1f687a"
+    },
+    "OTF/Halvar Breitschrift-ExtraThin-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "d250baf2428353f0b920a80c0a033717d7e1e7f6f86887976084cff5db649a9c"
+    },
+    "OTF/Halvar Breitschrift-Hairline Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "17f59457d0f7f2544d4690a5a9767214178ae1d19772c6e0e9995ee18fa257d0"
+    },
+    "OTF/Halvar Breitschrift-Hairline SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "965b6d568bf3bc234a5dc708ebd565c24ddf05d00d27250ae6272ae67eacac4c"
+    },
+    "OTF/Halvar Breitschrift-Hairline-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "6c3583aa9510fd12a41a3f9c5309b5debdfbc2300c126802f5349429d225cbce"
+    },
+    "OTF/Halvar Breitschrift-Light Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "4670e6d698d02a9d4fcf599c41dbb4e029e9076063896612c2d35f46dd8a7c4c"
+    },
+    "OTF/Halvar Breitschrift-Light SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "f19e2dade104a147f5d5587a6fcf850c7599755c30f9da3b6e2af42276ff1e4f"
+    },
+    "OTF/Halvar Breitschrift-Light-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "5d85b8b0fad285563d14b9862a38e32318dc5684f49f1d93956492d11febda62"
+    },
+    "OTF/Halvar Breitschrift-Medium Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "cf64e15f2fa8469408bbe1e59b5d0b911f50f907ed2e016c3863ab1e70b23d37"
+    },
+    "OTF/Halvar Breitschrift-Medium SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "1f035b46cdb04a56e14699a677939d740a56f37c85e5b173f13c3d29392a669b"
+    },
+    "OTF/Halvar Breitschrift-Medium-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "e38096adf34f1cf7e0d03cc1afa2d816618b7e0256ce2bc5e01ea58dbbb15493"
+    },
+    "OTF/Halvar Breitschrift-Regular Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "5a81bff111540e4acd638156a707544400fd556b313235b4a361fb0c8edeb871"
+    },
+    "OTF/Halvar Breitschrift-Regular SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "759d432a08da6659a7c323527aeb13864feadc56eeef1d8a552f43d422e1f8cf"
+    },
+    "OTF/Halvar Breitschrift-Regular-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "6ccb0f2556d39496d58d1c661df39837dba540361b1495fe7048226be2659d1e"
+    },
+    "OTF/Halvar Breitschrift-Thin Slanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "03fe2278b9ac36aaa5cbe580a73aa59eb951c53eb248245166d28f9006e291ae"
+    },
+    "OTF/Halvar Breitschrift-Thin SuperSlanted-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "83969ba7ebc235389137b235a52ffd2db7aaa47ad200734caf0720629c5fca00"
+    },
+    "OTF/Halvar Breitschrift-Thin-Desktop.otf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "2e3334161b6ca1ee11c3f0c0a879db18a201ccca5659b32e196ef329a8d184a1"
+    },
+    "TTF": {
+      "state": 2,
+      "direntType": 1,
+      "sha256SumHex": ""
+    },
+    "TTF/Halvar Breitschrift-Black Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "53de94d1e7eda621c6b10b7b96801116c75a9eb5a61df64ae4371672382fe7e2"
+    },
+    "TTF/Halvar Breitschrift-Black SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "69b3828f5efed2ed2fff2372958ba25060f0c1b607997eac21e6537bf5211d14"
+    },
+    "TTF/Halvar Breitschrift-Black-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "861291d6da51ba8387f6117ddd1893864919c03450e8d1307ba67322c4a314bc"
+    },
+    "TTF/Halvar Breitschrift-Bold Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "18417ac71246d2b3e68ef85cdc24e95f1ffa3dfcba5f949e3e10193bcaad9a5c"
+    },
+    "TTF/Halvar Breitschrift-Bold SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "16d7c322a26b810c7669a43143d22bc5726606c019fe93e64c644fa167f2ec51"
+    },
+    "TTF/Halvar Breitschrift-Bold-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "f99e18b1b6818b3246118c6c35edeca789a3a0713fdb7b19820ddf82df1353ac"
+    },
+    "TTF/Halvar Breitschrift-ExtraBold Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "2ee2a0536ca6c14dff6e8210f0db023c2fd9c80a0be4ffa0bb3b5250e5ca719b"
+    },
+    "TTF/Halvar Breitschrift-ExtraBold SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "c5808b5d20331146e360b6bacac1bd1f3eca6607cbe5c10931de51fd8dac5bc2"
+    },
+    "TTF/Halvar Breitschrift-ExtraBold-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "47af9e79ad9eb022ba100a009c14f19cd25d38dc9845de6f4ec552811c1176cc"
+    },
+    "TTF/Halvar Breitschrift-ExtraThin Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "c0f7d13cb62ab65acd1a0535fec358236b6528c59ce6dbfd8a6366493d62a9a7"
+    },
+    "TTF/Halvar Breitschrift-ExtraThin SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "98649043b95a7725dffb49362d84082ba4b170973d295967fbac2df9e9c6b1de"
+    },
+    "TTF/Halvar Breitschrift-ExtraThin-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "402f0700aebd7752a41994a91b2a1c8c33380da965d8cbe7997aebc0af91f8b2"
+    },
+    "TTF/Halvar Breitschrift-Hairline Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "937c11cfe108258946fe48c72e97ede46eb72762aa38d2fa41118f2d7602cf41"
+    },
+    "TTF/Halvar Breitschrift-Hairline SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "cc857837f2a5c431a91713d508181bfb6415c27b8468f0678b939aee476faa4b"
+    },
+    "TTF/Halvar Breitschrift-Hairline-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "1bbd76b5bb244725218a6c41848b979fa1e3edf37d573c056d29a6ef6710d624"
+    },
+    "TTF/Halvar Breitschrift-Light Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "9c166935d1048fbc5ad89db5aa02557b43901e2f45337fdbdd0185264be12db0"
+    },
+    "TTF/Halvar Breitschrift-Light SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "1a1228707b50f8b10b0836a62cb67e284bc486519642a2e44635821e91f1a68f"
+    },
+    "TTF/Halvar Breitschrift-Light-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "62bdd86b2a9670fd9dd9ba40232992363b4814061e4de3194a72c6f2872b07ae"
+    },
+    "TTF/Halvar Breitschrift-Medium Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "d32d001527f241badf44ec5e6ef24794782bd93f3f03190d211bc8d00f2ddc28"
+    },
+    "TTF/Halvar Breitschrift-Medium SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "a43eda0f816d7a58a3014e8c546fd1131ed4a409d31f6d7c6cef0c9c7654bf36"
+    },
+    "TTF/Halvar Breitschrift-Medium-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "d6532511d35ef863a5d794e0b4a16e587403a749b9b991592e8da2e57de626d7"
+    },
+    "TTF/Halvar Breitschrift-Regular Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "20dc94f06d061dfa9fc965fa0f7d4350004f2030231b543f60bfff194f0a12be"
+    },
+    "TTF/Halvar Breitschrift-Regular SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "85aa51eff75f52d9dbf721b86ed00252ea6e250c76267ef8b89e5324349e9564"
+    },
+    "TTF/Halvar Breitschrift-Regular-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "023105c37cc94280d7fdee38dd15452dedd096c9455001f324b9ae1623903bd8"
+    },
+    "TTF/Halvar Breitschrift-Thin Slanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "0696856dadd16c2c4c08c0d557d1477aabce25aed8de92555f90e769cf79739c"
+    },
+    "TTF/Halvar Breitschrift-Thin SuperSlanted-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "4d01341c28e3315ad7c0638314d5e8095a00d93c3b4b9d219b52e09981fb904b"
+    },
+    "TTF/Halvar Breitschrift-Thin-Web.ttf": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "008d1231b4ffd35eb52dc604348e6f159032e231cd757431a300eb3defb39596"
+    },
+    "TT_EULA_EN.txt": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "9e1603aa664b27802eab8075e928f9df525b9c9c73de7f4148b6ae00254a8871"
+    },
+    "TT_EULA_RU.txt": {
+      "state": 2,
+      "direntType": 0,
+      "sha256SumHex": "d3cf94863be4344a9f9b4881f07fa5d69ab30325c8f40a8be62df827de1702ec"
+    }
+  }
+}
