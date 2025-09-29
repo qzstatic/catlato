@@ -1,31 +1,39 @@
 import ProgressBar from "../components/progress_bar";
+import PlayingField from "../components/playing_field";
+import Theme from "../components/theme";
 import { StyleSheet, Text, View, Image } from "react-native";
 
 const logo = require("../assets/logo.png");
 
 
 const Lato = () => {
-    return (
-      <View style={styles.container}>
-        <View style={styles.logoContainer}>
-            <Image
-              source={logo}
-              style={styles.logoImage}
-            />
+  return (
+      <View style={styles.app}>
+        <View style={styles.container}>
+          <View style={styles.logoContainer}>
+              <Image
+                source={logo}
+                style={styles.logoImage}
+              />
+          </View>
+          <View style={styles.progressBarContainer}>
+            <ProgressBar/>
+          </View>
         </View>
-        <View style={styles.progressBarContainer}>
-          <ProgressBar/>
-        </View>
+        <PlayingField/>
       </View>
     );
 };
 
 
 const styles = StyleSheet.create({
+  app: {
+    backgroundColor: Theme.backgroundColor,
+    maxWidth: '387px'
+  },
   container: {
     flex: 1,
     flexDirection: 'row',
-    backgroundColor: '#292929',
     width: '100%',
     height: '36px',
   },
